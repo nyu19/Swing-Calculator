@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Swing Calculator">
+    <output-path>$PROJECT_DIR$/out/artifacts/Swing_Calculator</output-path>
+    <root id="archive" name="Swing Calculator.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="AwtFresher" />
+    </root>
+  </artifact>
+</component>
